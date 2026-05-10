@@ -86,6 +86,7 @@ int main(){
     printf("Densidade populacional: %.2f hab/km²\n", DensidadePopulacional2);
     printf("PIB per capta: %.2f reais\n", PibPerCapta2);
     printf("teste commit");
+    printf("teste comiit GH")
 
     return 0;
 }
